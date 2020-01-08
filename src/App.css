@@ -1,4 +1,13 @@
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  padding: 50px 60px;
+  padding: 20px 60px;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: rgb(78, 78, 78);
 }
